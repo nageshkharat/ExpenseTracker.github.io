@@ -15,7 +15,7 @@
 
 // function addTransaction(e){
 //     e.preventDefault();
-
+ 
 //     if (incomeText.value.trim() !== " "){
 //         const incomeTransaction = {
 //             id :generateId(),

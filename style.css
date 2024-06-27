@@ -40,7 +40,7 @@
  h1, h2, h3, h4 {
      margin: 10px 0;
      font-weight: bold;
-     color: white;
+     font-color: white;
  }
  span{
     color: rgb(53, 55, 54);
